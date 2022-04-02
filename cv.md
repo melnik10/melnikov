@@ -10,7 +10,8 @@ Melnikov Vladislav
 * melnik10#1735 (Discrod)
 
 ### 2. About myself:
-My firstname is Vladislav. I live in Kaliningrad. I want to learn frontend in **RSSchool**!
+
+My firstname is Vladislav. I live in Kaliningrad. 
 
 ### 3. Skills:
 * HTML
@@ -57,11 +58,10 @@ export const ConfirmForm = (props) => {
 ### 6.Education:
 1. Radio engineer (2019)
 2. QT/C++ (2017-2020)
-3. CS50 (2021)
-4. HTML, CSS, GIT on YouTube
-5. JS - [https://learn.javascript.ru](https://learn.javascript.ru)
-6. [Путь самурая 1.0 - 2.0](https://www.youtube.com/watch?v=gb7gMluAeao&list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8)
-7. TypeScript, Redux-toolkit, MobX (youtube, documentation)
+3. HTML, CSS, GIT on YouTube
+4. JS - [https://learn.javascript.ru](https://learn.javascript.ru)
+5. [Путь самурая 1.0 - 2.0](https://www.youtube.com/watch?v=gb7gMluAeao&list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8)
+6. TypeScript, Redux-toolkit, MobX (youtube, documentation)
 
 ### 7. Language
 1. Russian - native
