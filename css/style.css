@@ -14,11 +14,12 @@ body {
 }
 
 .header {
-    padding-top: 30px;
+    padding: 30px 20px 0;
     display: flex;
     justify-content: space-around;
     align-items: center;
     text-transform: uppercase;
+    flex-wrap: wrap;
 }
 
 .link {
@@ -26,6 +27,8 @@ body {
     text-decoration: none;
     transition: color 0.3s ease;
     font-weight: 500;
+    margin: 0 25px 10px;
+
 }
 .link:hover {
     color: rgba(255, 255, 255, 0.559);
@@ -36,4 +39,24 @@ body {
     right: 15px;
     bottom: 40px;
     color: #fff;
+    padding-left: 20px;
+    text-align: right;
+}
+
+@media screen and (max-width: 500px) {
+    .header {
+        flex-direction: column;
+    }
+    .header {
+        margin: 10px 20px;
+    }
+    .footer {
+        margin-left: 20px;
+    }
+}
+
+@media screen and (max-width: 340px) {
+    .footer {
+        font-size: 20px;
+    }
 }
