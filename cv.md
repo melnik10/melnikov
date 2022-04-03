@@ -15,12 +15,19 @@ My firstname is Vladislav. I live in Kaliningrad.
 
 ### 3. Skills:
 * HTML
-* CSS
-* JS
+* CSS (SCSS)
+* JS (ES6)
+* REST
+* Git
+* npm/yarn
+* webpack (base)
 * React
-* Redux
+* Redux(toolkit - base)
 * Mobx
 * TypeScript
+* NodeJS(base)
+* PostgreSQL, MongoDB(base)
+* Express (base)
 
 
 ### 4. Code example
@@ -28,7 +35,6 @@ My firstname is Vladislav. I live in Kaliningrad.
 export const ConfirmForm = (props) => {
     const [code, setCode] = useState(props.code)
     useEffect(() => {
-        console.log('Ваш код для входа: ',code)
         alert('Ваш код для входа: ' + code)
     }, [code])
     return (
