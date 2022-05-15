@@ -10,7 +10,7 @@ Melnikov Vladislav
 * melnik10#1735 (Discrod)
 
 ### 2. About myself:
-My firstname is Vladislav. I live in Kaliningrad. I'm a frontend developer at [Selsup](selsup.ru)!
+My firstname is Vladislav. I live in Kaliningrad. I'm a frontend developer at [Selsup](https://selsup.ru)
 
 ### 3. Skills:
 * HTML
